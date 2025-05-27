@@ -55,4 +55,6 @@ Microsoft Copilot Studio の機能を活用することで、カスタマーサ�
 - [演習 06: コネクタとの連携に生成 AI オーケストレーションを利用](docs/Ex06/Ex06.ja.md)
 - [演習 07: AI Builder プロンプトの呼び出し](docs/Ex07/Ex07.ja.md)
 
+- [本演習のソリューションパッケージ](solution/CopilotFlightCrew_1_0_0_2.zip)
+
 ---
