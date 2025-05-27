@@ -56,5 +56,3 @@ Microsoft Copilot Studio の機能を活用することで、カスタマーサ�
 - [演習 07: AI Builder プロンプトの呼び出し](docs/Ex07/Ex07.ja.md)
 
 ---
-
-このサイトは [Just the Docs](https://github.com/just-the-docs/just-the-docs) テーマを利用しています。
