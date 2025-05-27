@@ -1,4 +1,4 @@
-# TechExcel: Copilot Studio で独自エージェントを開発する
+# Copilot Studio で独自エージェントを開発する
 
 このラボでは、Microsoft Copilot Studio を使用してカスタム AI 搭載カスタマーサービスエージェントを作成・強化する方法を学びます。新しいエージェントの作成、コンテンツの追加、Message ノードや Question ノード、エンティティ、スロットフィリング、変数など、対話型エージェント構築の基本を学びます。
 
