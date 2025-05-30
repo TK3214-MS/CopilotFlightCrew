@@ -45,16 +45,15 @@ Microsoft Copilot Studio の機能を活用することで、カスタマーサ�
 
 ## 追加リンク
 
-- [イントロダクション](docs/Ex00/Intro.ja.md)
-- [演習 00: セットアップ](docs/Ex00/Ex00.ja.md)
-- [演習 01: Microsoft Copilot Studio で最初の Copilot を作成](docs/Ex01/Ex01.ja.md)
-- [演習 02: 基本的なオーサリングを学ぶ](docs/Ex02/Ex02.ja.md)
-- [演習 03: Power Automate クラウドフローをエージェントから呼び出す](docs/Ex03/Ex03.ja.md)
-- [演習 04: API へ HTTP リクエストを送信](docs/Ex04/Ex04.ja.md)
-- [演習 05: ナレッジソース、AI ナレッジ、カスタム指示の活用](docs/Ex05/Ex05.ja.md)
-- [演習 06: コネクタとの連携に生成 AI オーケストレーションを利用](docs/Ex06/Ex06.ja.md)
-- [演習 07: AI Builder プロンプトの呼び出し](docs/Ex07/Ex07.ja.md)
+- [演習 00: セットアップ](docs/Ex00/Ex00.md)
+- [演習 01: Microsoft Copilot Studio で最初の Copilot を作成](docs/Ex01/Ex01.md)
+- [演習 02: 基本的なオーサリングを学ぶ](docs/Ex02/Ex02.md)
+- [演習 03: Power Automate クラウドフローをエージェントから呼び出す](docs/Ex03/Ex03.md)
+- [演習 04: API へ HTTP リクエストを送信](docs/Ex04/Ex04.md)
+- [演習 05: ナレッジソース、AI ナレッジ、カスタム指示の活用](docs/Ex05/Ex05.md)
+- [演習 06: コネクタとの連携に生成 AI オーケストレーションを利用](docs/Ex06/Ex06.md)
+- [演習 07: AI Builder プロンプトの呼び出し](docs/Ex07/Ex07.md)
 
-- [本演習のソリューションパッケージ](solution/CopilotFlightCrew_1_0_0_2.zip)
+- [本演習のインポート用ソリューションパッケージ](solution/CopilotFlightCrew_1_0_0_2.zip)
 
 ---
