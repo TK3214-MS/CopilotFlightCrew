@@ -10,7 +10,7 @@
 
 ## アーキテクチャ
 
-![o2w1le2j.jpg](https://microsoft.github.io/TechExcel-Designing-your-own-copilot-using-copilot-studio/media/o2w1le2j.jpg)
+![o2w1le2j.jpg](media/o2w1le2j.jpg)
 
 ## 演習
 
